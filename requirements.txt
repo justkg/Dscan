@@ -1,0 +1,7 @@
+termcolor
+argparse
+requests
+urlparse
+ConfigParser
+glob
+Template
